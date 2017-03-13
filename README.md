@@ -1,0 +1,1 @@
+I am learning how to use the command line and starting to use html, css to create a page with better understanding in creating a web page. 
