@@ -1,0 +1,124 @@
+#upper{
+	list-style-type: none;
+	
+	
+}
+a{
+	text-decoration:none;
+	padding-left:15px;
+	color:gray;
+	font-family:sans-serif;
+	
+	
+}
+
+#upper2{
+	display: inline;
+	float: right;
+	
+	
+	
+}
+
+
+div p{
+	display:inline;
+	
+	
+}
+
+#one{
+ color:blue;
+ font-family: Sans-serif;
+ font-size:85;
+ position:fixed;
+	top: 25%;
+	left:40%;
+}
+
+#two{
+	color:red;
+	font-family: Sans-serif;
+	font-size:85;
+	position:fixed;
+	top: 25%;
+	left:44%;
+	
+}
+#three{
+	color:yellow;
+	font-family: Sans-serif;
+	font-size:85;
+	position:fixed;
+	top: 25%;
+	left:47%;
+}
+#Four{
+	color:blue;
+	font-family: Sans-serif;
+	font-size:85;
+	position:fixed;
+	top: 25%;
+	left:50%;
+
+}
+#Five{
+	color:green;
+	font-family: Sans-serif;
+	font-size:85;
+	position:fixed;
+	top: 25%;
+	left:53%;
+}
+#six{
+	color:red;
+	font-family: Sans-serif;
+	font-size:85;
+	position:fixed;
+	top: 25%;
+	left:54%;
+	border-color: blue;
+}
+
+#search{
+	position:absolute;
+	top:50%;
+	left:30%;
+	width:40%;
+	height:39px;
+	box-shadow: 2px 2px 5px #D1D1D1;
+	
+}
+#button1{
+	position:absolute;
+	top:56%;
+	left:42%;
+}
+button{
+	height:30px;
+	color: gray;
+}
+#lower{
+	position: fixed;
+	bottom:0;
+	width:100%;
+	list-style-type:none;
+	margin:0px;
+	background-color:#EBF6FA;
+	height: 39px;
+	
+	
+	
+}
+#lower2{
+	display:inline;
+	font-family: sans-serif;
+	padding-top:5px;
+	
+	
+	
+}
+#half{
+	float:right;
+	
+}
